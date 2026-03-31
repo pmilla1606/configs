@@ -1,0 +1,19 @@
+cursor-style = bar
+font-size = 16
+theme = Cobalt Next Dark
+link-url = true
+window-inherit-working-directory = true
+window-inherit-font-size = true
+clipboard-trim-trailing-spaces = true
+mouse-hide-while-typing = true
+unfocused-split-opacity = 0.8
+split-divider-color = #409dd3
+window-padding-x = 20
+window-padding-y = 20
+
+
+
+
+
+
+
